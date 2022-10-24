@@ -39,4 +39,4 @@ jobs:
           app-name: 'func-skattegard-dyndns'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F32A534B8439474ABAD2737114FF5F6C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D141A95F5ED4B2D84D3945EC0AF5419 }}
